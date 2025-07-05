@@ -11,7 +11,7 @@ public class ProductManagement {
 
 
     public static void menuProduct(Scanner scan) {
-        Boolean continues = false;
+        Boolean continues = true;
         while ( continues){
             System.out.println("********PRODUCT MANAGEMENT*********");
             System.out.println("1. Nhap thong tin san pham");
